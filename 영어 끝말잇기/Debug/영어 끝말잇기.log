@@ -1,0 +1,3 @@
+﻿  소스.cpp
+C:\Users\yh\source\repos\영어 끝말잇기\소스.cpp(15,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+  영어 끝말잇기.vcxproj -> C:\Users\yh\source\repos\영어 끝말잇기\Debug\영어 끝말잇기.exe

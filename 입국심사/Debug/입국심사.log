@@ -1,0 +1,4 @@
+﻿  소스.cpp
+C:\Users\yh\source\repos\입국심사\소스.cpp(9,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\yh\source\repos\입국심사\소스.cpp(10,24): warning C4244:  '+=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  입국심사.vcxproj -> C:\Users\yh\source\repos\입국심사\Debug\입국심사.exe
